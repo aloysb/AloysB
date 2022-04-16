@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, it's Alo 👋
+
+This is my Github profile and it is under construction, so it's pretty boring right now! 🙂
+I'm currently going through my *messy* GitHub and cleaning up. 🧼
+
+Stay tuned! 🔌
+
+In the meantime, you can visit my blog at [👉 a little better than yesterday](https://abitbetterthanyester.day)
 
 <!--
 **Aloysb/AloysB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
